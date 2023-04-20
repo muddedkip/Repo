@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is B62E-B35B
+
+ Directory of C:\Users\taylo\Desktop\MyProject
+
+04/19/2023  11:56 PM    <DIR>          .
+04/19/2023  11:54 PM    <DIR>          ..
+04/19/2023  11:56 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  107,737,653,248 bytes free
